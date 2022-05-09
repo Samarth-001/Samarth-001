@@ -7,3 +7,4 @@ I am a CSE freshmen with interest in Web Development.
 * Javascript
 * CSS
 * HTML
+* C/C++
