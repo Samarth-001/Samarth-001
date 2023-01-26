@@ -7,7 +7,7 @@
 I'm a student at SRMIST pursuing Computer Science and Engineering. I am a Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. I'm passionate about Web development 👨‍💻  and creating solutions through websites for businesses and individuals in need. 🚀</div> 
   
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/Samarth-001/Portfolio-Website)
+- 🔭 I’m currently working on my [Portfolio Website](https://github.com/Samarth-001/Portfolio-Website)
   
 
 - 🌱 I’m currently learning Express and Node.js  
