@@ -152,17 +152,14 @@ timeline
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samarth-001&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=samarth-001&theme=radical&hide_border=true" />
 </div>
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-001&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=samarth-001&theme=radical&hide_border=true" />
 </div>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-001&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-001&theme=radical&hide_border=true&layout=compact" />
 </div>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=samarth-001&theme=radical&no-frame=true&row=1&column=6" />
 </div>
