@@ -145,8 +145,6 @@ timeline
 <img src="https://raw.githubusercontent.com/samarth-001/samarth-001/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-<sub align="center">(Set up in ~2 minutes — see the note at the bottom on how to activate this.)</sub>
-
 <br/>
 
 ## 📈 GitHub Stats
